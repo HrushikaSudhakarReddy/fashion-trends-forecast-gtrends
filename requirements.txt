@@ -1,12 +1,8 @@
+streamlit
 pandas
 numpy
-scikit-learn
-prophet
-pytorch-forecasting
-pytorch-lightning
-torch
-streamlit
-requests
 altair
+scikit-learn
+requests
 pytrends
 python-dotenv
