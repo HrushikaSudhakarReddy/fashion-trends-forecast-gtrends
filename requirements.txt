@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+prophet
+pytorch-forecasting
+pytorch-lightning
+torch
+streamlit
+requests
+altair
+pytrends
+python-dotenv

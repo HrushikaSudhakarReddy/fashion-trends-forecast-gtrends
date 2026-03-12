@@ -1,0 +1,12 @@
+linen
+tweed
+satin
+denim
+leather
+crochet
+mesh
+velvet
+silk
+terry
+corduroy
+cashmere
